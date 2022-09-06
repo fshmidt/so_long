@@ -1,5 +1,5 @@
 # so_long
-A small 2d game about our school routine in Inra42.
+A small 2d game about our school routine in Intra42.
 Project complies with the following rules:
 • It uses the MiniLibX. Either the version available on the school machines,
 or installing it using its sources.
